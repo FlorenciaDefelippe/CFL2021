@@ -14,5 +14,5 @@ switch (posicionLlegada) {
     case 3: 
     console.log("Entregar medalla de bronce");
     default:
-    console.log("Entregar certificado de participación")
+    console.log("Entregar certificado de participación");
 }
